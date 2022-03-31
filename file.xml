@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Response><Say voice="alice">Patient facing difficulty. Please check the patient.</Say><Pause length="1"/><Say voice="alice">Patients room number is 129.</Say></Response>
